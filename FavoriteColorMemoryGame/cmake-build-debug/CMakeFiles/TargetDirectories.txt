@@ -1,0 +1,3 @@
+/Users/gax/CLionProjects/FavoriteColorMemoryGame/cmake-build-debug/CMakeFiles/FavoriteColorMemoryGame.dir
+/Users/gax/CLionProjects/FavoriteColorMemoryGame/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/gax/CLionProjects/FavoriteColorMemoryGame/cmake-build-debug/CMakeFiles/rebuild_cache.dir
