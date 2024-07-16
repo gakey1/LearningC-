@@ -1,0 +1,15 @@
+# ninja log v5
+0	318	1721059730229694504	CMakeFiles/RandomNumberGenerator.dir/main.cpp.o	e1936669ec30c543
+319	354	1721059730266042888	RandomNumberGenerator	80f2ce811fe7132b
+1	277	1721059739788946106	CMakeFiles/RandomNumberGenerator.dir/main.cpp.o	e1936669ec30c543
+277	309	1721059739822835337	RandomNumberGenerator	80f2ce811fe7132b
+1	278	1721062086024731614	CMakeFiles/RandomNumberGenerator.dir/main.cpp.o	e1936669ec30c543
+278	314	1721062086062853943	RandomNumberGenerator	80f2ce811fe7132b
+1	269	1721062098499401918	CMakeFiles/RandomNumberGenerator.dir/main.cpp.o	e1936669ec30c543
+269	300	1721062098531624972	RandomNumberGenerator	80f2ce811fe7132b
+1	268	1721062113361923905	CMakeFiles/RandomNumberGenerator.dir/main.cpp.o	e1936669ec30c543
+268	298	1721062113393680867	RandomNumberGenerator	80f2ce811fe7132b
+1	312	1721062742107393717	CMakeFiles/RandomNumberGenerator.dir/main.cpp.o	e1936669ec30c543
+312	347	1721062742143670387	RandomNumberGenerator	80f2ce811fe7132b
+0	315	1721063853827871118	CMakeFiles/RandomNumberGenerator.dir/main.cpp.o	e1936669ec30c543
+315	354	1721063853868416866	RandomNumberGenerator	80f2ce811fe7132b
