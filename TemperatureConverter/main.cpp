@@ -1,5 +1,8 @@
 #include <iostream>
 
+using namespace std;
+
+
 /*
  * ===================================
  *          FUNCTIONS C++
@@ -14,7 +17,22 @@
  * Maintenance: Easier to update and manage the code.
  * */
 
+// Function to convert Celsius to Fahrenheit
+double CelsiusToFahrenheit(double celsius){
+    return (celsius * 9 / 5) + 32;
+}
+
+// Function to convert Fahrenheit to Celsius
+double FahrenheitToCelsius(double fahrenheit){
+    return (fahrenheit -32) * 5 / 9;
+}
+
 int main() {
-    std::cout << "Hello, World!" << std::endl;
+    double celsius = 20.0;
+    double fahrenheit = 68.0;
+
+    cout << celsius << " Celsius is " << CelsiusToFahrenheit(celsius) << " Fahrenheit \n";
+    cout << fahrenheit << " Fahrenheit is " << FahrenheitToCelsius(fahrenheit) << " Celsius \n";
+
     return 0;
 }
